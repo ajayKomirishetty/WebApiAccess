@@ -1,1 +1,1 @@
-This app demonstrtes the way to access webapi using c# application
+This app demonstrates the way to access webapi using c# application
